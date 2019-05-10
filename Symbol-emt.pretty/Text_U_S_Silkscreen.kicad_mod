@@ -1,0 +1,17 @@
+(module Text_U_S_Silkscreen (layer F.Cu) (tedit 5CD53F07)
+  (descr "Voltage Label Betriebsspannung")
+  (tags "Voltage Label Betriebsspannung")
+  (attr virtual)
+  (fp_text reference REF** (at 0 1.65) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Text_U_S_Silkscreen (at 0 -1.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user U (at 0 0) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text user S (at 0.8 0.5) (layer F.SilkS)
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+  )
+)
