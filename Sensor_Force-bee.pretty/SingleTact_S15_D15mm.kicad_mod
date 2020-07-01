@@ -27,7 +27,7 @@
   (fp_line (start -2.25 58) (end 2.25 58) (layer F.CrtYd) (width 0.05))
   (fp_line (start 2.25 58) (end 2.25 8) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.25 58) (end -2.25 8) (layer F.CrtYd) (width 0.05))
-  (model ${KICAD_3DMOD_EMT}/Sensor_Force-emt.3dshapes/SingleTact_S15_D15mm.wrl
+  (model ${KICAD_3DMOD_BEE}/Sensor_Force-bee.3dshapes/SingleTact_S15_D15mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
