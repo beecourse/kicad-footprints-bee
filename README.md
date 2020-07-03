@@ -6,9 +6,9 @@ This repository contains KiCad footprints used by [bees](https://github.com/beec
 Installation
 ------------
 Clone this repository to a directory of your choice.
-Open a project in KiCad and (in the project window) go to "Werkzeuge->Footprints bearbeiten".
-In the appearing "Footprinteditor" go to "Einstellungen->Verwalten Footprint-Bibliotheken".
-Via "Bibliotheken ansehen" select every .pretty folder you want to add (use CTRL key to select multiple folders).
+Open a project in KiCad and (in the project window) go to _Tools_ > _Edit PCB Footprints_.
+In the appearing _Footprint Editor_ go to _Preferences_ > _Manage Footprint Libraries_.
+Via _Browse Libraries_ select every .pretty folder you want to add (use CTRL key to select multiple folders).
 
 Hints on footprint creation
 ---------------------------
